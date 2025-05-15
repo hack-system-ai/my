@@ -4,7 +4,7 @@
         
         特點:非常卡頓
 
-        
+        適用場景:無(極度不建議)
    - 2.[已優化ultralytics程序](./code/python/opt-ultralytics.py)
 
         特點:畫面絲滑,不卡頓,不影響其他程序
