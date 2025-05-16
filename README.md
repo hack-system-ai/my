@@ -11,7 +11,7 @@
 
         適用場景:Raspberry pi os 這類 RAM 架構系統、老舊電腦
  - 2.遠端硬碟所需軟體及操作說明
-   - 1.伺服器Xampp=>[下載](https://www.apachefriends.org/zh_tw/index.html)
+   - 1.伺服器Xampp=><a href="https://www.apachefriends.org/zh_tw/index.html" target="_blank">下載</a>
    - 2.VPN服務器TailScale=>[下載](https://tailscale.com/)
    - 3.FTP轉雲端硬碟RaiDrive=>[下載]()
    - 4.操作流程及注意事項=>[跳轉]()
