@@ -13,5 +13,5 @@
  - 2.遠端硬碟所需軟體及操作說明
    - 1.伺服器Xampp=>[下載](https://www.apachefriends.org/zh_tw/index.html)
    - 2.VPN服務器TailScale=>[下載](https://tailscale.com/)
-   - 3.FTP轉雲端硬碟RaiDrive=>[下載]()
-   - 4.操作流程及注意事項=>[跳轉]()
+   - 3.FTP轉雲端硬碟RaiDrive=>[下載](https://www.raidrive.com)
+   - 4.操作流程及注意事項=>[跳轉](./docs/remote-hard-drive-set-up.md)
